@@ -1,2 +1,2 @@
 # odin-recipes
-Hello World!
+Это мой первый HTML проект созданый по гайду от project-odin.
